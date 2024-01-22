@@ -1,0 +1,32 @@
+baseURL = 'https://someoneelsescomputer.net/'
+languageCode = 'en-us'
+title = 'Someone Elses Computer'
+theme = 'simple-dark'
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "providers"
+name = "Providers"
+url = "/providers/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "news"
+name = "News Reports"
+parent = ""
+url = "/news/"
+weight = 30
+
+[[languages.en.menu.main]]
+identifier = "contact"
+name = "Contact"
+url = "/contact/"
+weight = 40
