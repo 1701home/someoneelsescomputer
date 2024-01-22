@@ -15,18 +15,17 @@ weight = 10
 [[languages.en.menu.main]]
 identifier = "providers"
 name = "Providers"
-url = "/providers/"
+url = "/providers/providers/"
 weight = 20
 
-[[languages.en.menu.main]]
-identifier = "news"
-name = "News Reports"
-parent = ""
-url = "/news/"
-weight = 30
+#[[languages.en.menu.main]]
+#identifier = "news"
+#name = "News Reports"
+#url = "/news/"
+#weight = 30
 
-[[languages.en.menu.main]]
-identifier = "contact"
-name = "Contact"
-url = "/contact/"
-weight = 40
+#[[languages.en.menu.main]]
+#identifier = "contact"
+#name = "Contact"
+#url = "/contact/"
+#weight = 40
