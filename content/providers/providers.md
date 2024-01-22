@@ -1,5 +1,5 @@
 +++
-title = 'Proivders'
+title = 'Providers'
 +++
 
 ### File Storage and Synchronization Services
